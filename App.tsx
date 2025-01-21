@@ -1,4 +1,5 @@
 import * as React from "react";
+import "./global.css"
 import { NavigationContainer } from "@react-navigation/native";
 import { Providers } from "@/providers";
 import Toast from "@/components/Toast";

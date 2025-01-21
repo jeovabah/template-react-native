@@ -3,8 +3,6 @@ import * as S from "./styles";
 import { useEffect, useState } from "react";
 import { Button } from "@/components/Button";
 import { Input } from "@/components/Input";
-import LogoSup from "@/assets/svg/LogoSup";
-import LogoInf from "@/assets/svg/LogoInf";
 import { useTheme } from "styled-components/native";
 import { ContainerLogoSup } from "./styles";
 import { FontAwesome } from "@expo/vector-icons";
